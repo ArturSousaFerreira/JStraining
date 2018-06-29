@@ -1,0 +1,1 @@
+document.getElementById('ss').innerHTML = 'Mestre Jedi';
